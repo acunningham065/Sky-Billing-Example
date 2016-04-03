@@ -1,0 +1,12 @@
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Sky Billing\Sky Billing\bin\Debug\Sky Billing.exe.config
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Sky Billing\Sky Billing\bin\Debug\Sky Billing.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Sky Billing\Sky Billing\bin\Debug\Sky Billing.pdb
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Sky Billing\Sky Billing\obj\Debug\Sky Billing.csprojResolveAssemblyReference.cache
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Sky Billing\Sky Billing\obj\Debug\Sky Billing.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Sky Billing\Sky Billing\obj\Debug\Sky Billing.pdb
+D:\SSD\Projects\Console Applications\Sky Billing\Sky Billing\bin\Debug\Sky Billing.exe.config
+D:\SSD\Projects\Console Applications\Sky Billing\Sky Billing\obj\Debug\Sky Billing.exe
+D:\SSD\Projects\Console Applications\Sky Billing\Sky Billing\obj\Debug\Sky Billing.pdb
+D:\SSD\Projects\Console Applications\Sky Billing\Sky Billing\bin\Debug\Sky Billing.exe
+D:\SSD\Projects\Console Applications\Sky Billing\Sky Billing\bin\Debug\Sky Billing.pdb
+D:\SSD\Projects\Console Applications\Sky Billing\Sky Billing\obj\Debug\Sky Billing.csprojResolveAssemblyReference.cache
